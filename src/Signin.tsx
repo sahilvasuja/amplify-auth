@@ -1,6 +1,4 @@
 import { Authenticator } from '@aws-amplify/ui-react'
-import React from 'react'
-
 const Signin = () => {
   return (
     <>
