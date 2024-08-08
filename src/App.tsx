@@ -6,11 +6,10 @@ function App() {
 
   return (
     <>
-     {/* <Authenticator.Provider> */}
-
+     
       
       <Signin />
-     {/* </Authenticator.Provider> */}
+    
     </>
   )
 }
